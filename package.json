@@ -1,5 +1,5 @@
 {
-  "name": "resume-pdf-export-service",
+  "name": "resume-pdf-export",
   "version": "1.0.0",
   "description": "简历 PDF 导出服务 API",
   "main": "src/server.js",
